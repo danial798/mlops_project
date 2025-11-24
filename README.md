@@ -1,6 +1,6 @@
 # Wine Quality Prediction - End-to-End MLOps Pipeline
 
-[![MLOps Pipeline](https://github.com/yourusername/wine-quality-mlops/actions/workflows/mlops-pipeline.yml/badge.svg)](https://github.com/yourusername/wine-quality-mlops/actions)
+[![MLOps Pipeline](https://github.com/danial798/mlops_project/actions/workflows/mlops-pipeline.yml/badge.svg)](https://github.com/danial798/mlops_project/actions)
 
 An end-to-end MLOps pipeline for predicting wine quality using machine learning. This project demonstrates best practices in ML deployment, including version control, experiment tracking, CI/CD automation, and production deployment.
 
@@ -87,8 +87,8 @@ This project predicts wine quality (0-10 scale) based on physicochemical propert
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wine-quality-mlops.git
-cd wine-quality-mlops
+git clone https://github.com/danial798/mlops_project.git
+cd mlops_project
 ```
 
 ### 2. Install Dependencies
